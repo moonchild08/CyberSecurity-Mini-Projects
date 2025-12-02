@@ -6,7 +6,7 @@ It is a tool that is use in CyberSecurity and ethical hacking in order to identi
 2. Identify Hidden Services: Some subdomains may not be publicly listed but may host admin panels, dev servers, APIs, etc.
 3. Vulnerability Assessment: Different subdomains might be running different technologies or outdated software that could be exploited.
 
-## 🔧 How the Code Works (Logic Only)
+## 🔧 How the Code Works
 #### 1. User Input Handling:
 1.1) Accepts a domain name from the user (e.g., youtube.com).
 #### 2. Subdomain Enumeration:
